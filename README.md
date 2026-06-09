@@ -1,5 +1,26 @@
 # handy-websites
 A curated collection of the most useful websites on the internet. Discover AI tools, productivity apps, learning resources, developer utilities, design tools, free services, hidden gems, and everyday websites that save time, boost efficiency, and make life easier.
+# Handy Websites: My Ultimate Curated Bookmarks Hub
+
+A hand-picked collection of incredibly useful websites, developer utilities, and daily productivity tools.
+
+## 📊 Table of Contents
+- [AI & Developer Tools](#ai--developer-tools)
+- [Design & UI Resources](#design--ui-resources)
+- [SEO & Web Analytics](#seo--web-analytics)
+
+---
+
+## 🤖 AI & Developer Tools
+| Website | Description | Why It's Useful |
+| :--- | :--- | :--- |
+| [SambaNova Cloud](https://sambanova.ai/) | Fast AI Inference | Incredibly quick API responses for Llama models. |
+| [OpenRouter](https://openrouter.ai/) | Unified AI API | Access multiple LLMs through a single integration. |
+
+## 🎨 Design & UI Resources
+* [Tenor Developer](https://tenor.com/gifapi) - Great for integrating GIF search into web apps.
+* [TradingView Charts](https://www.tradingview.com/) - The best iframe widgets for financial market charting.
+
 ---
 
 ## 🤖 AI Chat & Assistants
