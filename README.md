@@ -185,6 +185,14 @@ A hand-picked collection of incredibly useful websites, developer utilities, and
 
 ---
 
+## 🏠 Home Improvement & Planning
+
+| Tool | Link |
+|------|------|
+| Roof Cost Data — free U.S. roof replacement cost calculator; no account required | https://roofcostdata.com/roof-replacement-cost-calculator |
+
+---
+
 ## 🌐 Productivity & Misc
 
 | Tool | Link |
